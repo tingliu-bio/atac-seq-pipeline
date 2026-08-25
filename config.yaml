@@ -1,0 +1,23 @@
+samples: combined_samples.tsv
+#BWT2_IDX: /mnt/work1/data/genomes/human/hg38/iGenomes/Sequence/Bowtie2Index/genome
+#BWT2_IDX: /cluster/tools/data/genomes/human/hg38/iGenomes/Sequence/Bowtie2Index/genome
+#Ting 2026 updated hg38 genome with HTLV1 seqs
+BWT2_IDX: /cluster/projects/kridelgroup/resources/Homo_sapiens_BWA_ref_updated_2024/bowtie2_hg38_HTLV1_with_HBZ/GRCh38_primary_assembly_with_HTLV1
+
+### Post processing parameters
+###Bed file for no_of_reads_per_region and R_analysis
+###
+
+user_bed_dir: input_bed
+
+##GeneMatching_All_OncoSuppressor specific
+GeneMatching:
+    TSSDist: 100 ##Any integer for TSSDist
+    
+##JaccardSim_QueryBed_To_TCGAPeaks specific
+JaccardSim:
+    top_SamNum: 5 ##Any integer for top sample number
+    sample_name: TCGA-2G-AAFM ##Any name to be given for sample
+    tissue_name: GBM ##Tissue to be matched
+
+vGENCODE: 34
