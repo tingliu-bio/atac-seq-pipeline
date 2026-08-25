@@ -1,6 +1,6 @@
 # ATAC-seq Analysis Workflow
 
-This repo documents an ATAC-seq chromatin accessibility analysis pipeline, including alignment, peak calling, IDR analysis, and consensus peak universe construction.
+This repo documents an ATAC-seq chromatin accessibility analysis pipeline. Core alignment and peak calling steps follow the [Lupien Lab chromatin accessibility workflow](https://github.com/LupienLab/pipeline-chromatin-accessibility), with modifications described below.
 
 ---
 
