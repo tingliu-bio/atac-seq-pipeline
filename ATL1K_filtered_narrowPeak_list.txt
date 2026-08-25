@@ -1,8 +1,0 @@
-/cluster/projects/kridelgroup/Noorhan/ATAC-seq/pipeline-chromatin-accessibility/data/Peaks/ATL1K_Combi_1_peaks.filtered.narrowPeak
-/cluster/projects/kridelgroup/Noorhan/ATAC-seq/pipeline-chromatin-accessibility/data/Peaks/ATL1K_Combi_2_peaks.filtered.narrowPeak
-/cluster/projects/kridelgroup/Noorhan/ATAC-seq/pipeline-chromatin-accessibility/data/Peaks/ATL1K_Control_1_peaks.filtered.narrowPeak
-/cluster/projects/kridelgroup/Noorhan/ATAC-seq/pipeline-chromatin-accessibility/data/Peaks/ATL1K_Control_2_peaks.filtered.narrowPeak
-/cluster/projects/kridelgroup/Noorhan/ATAC-seq/pipeline-chromatin-accessibility/data/Peaks/ATL1K_Ent_1_peaks.filtered.narrowPeak
-/cluster/projects/kridelgroup/Noorhan/ATAC-seq/pipeline-chromatin-accessibility/data/Peaks/ATL1K_Ent_2_peaks.filtered.narrowPeak
-/cluster/projects/kridelgroup/Noorhan/ATAC-seq/pipeline-chromatin-accessibility/data/Peaks/ATL1K_Val_1_peaks.filtered.narrowPeak
-/cluster/projects/kridelgroup/Noorhan/ATAC-seq/pipeline-chromatin-accessibility/data/Peaks/ATL1K_Val_2_peaks.filtered.narrowPeak
